@@ -1,5 +1,3 @@
-Cybersecurity-WebApp-Project-1
-
 Create a Virtual Cloud Network (Part1). Build, Secure, and Protect a Web Application (Part2)
 
 •	Create a highly available web server to use for testing and training.
